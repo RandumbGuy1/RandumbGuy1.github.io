@@ -1,0 +1,35 @@
+{
+    "books": [ 
+        {
+            "name": "I, The Terrible",
+            "genre": 8,
+            "author": "Paul Ogunsemore",
+            "publish": "5/11/2023",
+            "image": "Book_Covers/Pauls_Book.png",
+            "link": "https://docs.google.com/document/d/1LAtTX_umuSgzuiPyL_8oYzbqDzyJhPIV1e7IfCPRILg/edit?usp=sharing",
+            "color": "#d61a12"
+        },
+        {
+            "name": "Practical Programming",
+            "genre": 9,
+            "author": "Mark Rippetoe",
+            "publish": "3/28/2006",
+            "image": "https://m.media-amazon.com/images/I/51pNqBOYwGL.jpg",
+            "link": "https://www.amazon.com/Practical-Programming-Strength-Training-Rippetoe/dp/0982522754",
+            "color": "#4287f5"
+        }
+    ],
+
+    "genres": [
+        "Non Fiction", 
+        "Fiction", 
+        "Science Fiction", 
+        "Novel", 
+        "Narrative", 
+        "Mystery", 
+        "Adventure", 
+        "Sci-Fi", 
+        "Horror",
+        "Fitness"
+    ]
+}
